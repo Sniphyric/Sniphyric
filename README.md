@@ -1,3 +1,5 @@
+<div align="center">
+
 -\\ =========== Hello, I'm Sniphyric. C: =========== //-
 
 I'm a Pre-College, and, Future Software Engineer Student.
@@ -21,3 +23,5 @@ I'm a Pre-College, and, Future Software Engineer Student.
 |--> ----------------[ Objectives ]---------------- <--|
 
 Become a Software Engineer and do awesome stuff by coding.
+
+</div>
