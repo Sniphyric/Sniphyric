@@ -18,8 +18,6 @@ Hopefully create cool programs to post here on GitHub.
 **Ambients:** VSCode, MinGW, Git/GitHub.  
 **Tongues:** Portuguese and English.
 
-|< =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= >|
-
 ### |----------------[ Objectives ]----------------|
 Become a Software Engineer and do awesome stuff by coding.
 
