@@ -1,6 +1,6 @@
 <div align="center">
 
--X- Hello, I'm Sniphyric. C: -X-
+-X- Hello, I'm Sniphyric. -X-
 
 I'm a future Software Engineer Student.
 
