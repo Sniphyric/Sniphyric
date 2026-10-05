@@ -8,7 +8,7 @@ I'm a future Software Engineer Student.
 
 ### |------[ What I'm trying to do now ]-------|
 
-Studying **C++** from *LearnCPP.com*.  
+Studying **C/C++**.
 Trying the randomness that I learn using *VSCode*.  
 Hopefully create cool programs to post here on GitHub.
 
